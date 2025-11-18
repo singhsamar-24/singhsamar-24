@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <YOUR NAME></h1>
+<h1 align="center">Hi 👋, I'm SAMAR SINGH </h1>
 <h3 align="center">A passionate C/Python developer from India</h3>
 
 ---
