@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <YOUR NAME></h1>
+<h3 align="center">A passionate C/Python developer from India</h3>
 
-<!--
-**singhsamar-24/singhsamar-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 I’m currently learning **Data Structures in C/C++**, **Python Automation**, **AI Basics**
+- 🤝 I’m looking to collaborate on **Python automation & small AI projects**
+- 🧠 I want help with **Advanced AI, ML & Deep Learning**
+- 👨‍💻 All of my projects are here:  
+  🔗 https://github.com/<singhsamar-24>
+- 💬 Ask me about **Python, C, C++, AI tools, automation**
+- 📫 How to reach me: workonly2407@gmail.com
+- ⚡ Fun fact: *I build side projects at 2 AM for fun 😆*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with me
+
+
+---
+
+## 🛠️ Languages and Tools
+<p>
+<img src="https://skillicons.dev/icons?i=c" height="50"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+</p>
+
+---
+
+## ☕ Support Me
+<a href="https://www.buymeacoffee.com/<samar>"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="40" /></a>
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=react)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=react)
+
+---
+
