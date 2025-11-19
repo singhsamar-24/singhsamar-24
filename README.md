@@ -35,9 +35,9 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=<singhsamar-24>&show_icons=true&theme=react)
+![](https://github-readme-stats.vercel.app/api?username=singhsamar-24&show_icons=true&theme=react)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=<singhsamar-24>&layout=compact&theme=react)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsamar-24&layout=compact&theme=react)
 
 ---
 
