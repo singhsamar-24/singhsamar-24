@@ -26,11 +26,10 @@
 <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
 <img src="https://skillicons.dev/icons?i=python" height="50"/>
 </p>
-
 ---
 
 ## ☕ Support Me
-<a href="https://www.buymeacoffee.com/<samar>"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="40" /></a>
+<a href="https://buymeacoffee.com/singhsamar24"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="40" /></a>
 
 ---
 
